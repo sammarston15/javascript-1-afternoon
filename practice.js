@@ -14,13 +14,13 @@ const myAge = 21;
 
 //Create a variable called lovesCode that is a boolean data type
 
-const loveCode = true;
+const lovesCode = true;
 
 //////////////////PROBLEM 4////////////////////
 
 //Create a variable called greatestFear that is undefined because we fear nothing
 
-//Code here
+const greatestFear = null;
 
 //////////////////PROBLEM 5////////////////////
 
