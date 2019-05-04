@@ -102,7 +102,7 @@ const greatestFear =
 
 //////////////////PROBLEM 13////////////////////
 
-let duck = "cute";
+let duck = 'cute';
 
 function bathroom() {
   let rubberDuck = "squeaky";
