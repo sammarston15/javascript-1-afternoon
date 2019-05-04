@@ -8,7 +8,7 @@ const myName = 'string';
 
 //Create a variable called myAge that is a number data type
 
-//Code here
+const myAge = 21;
 
 //////////////////PROBLEM 3////////////////////
 
