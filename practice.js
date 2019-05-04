@@ -14,7 +14,7 @@ const myAge = 21;
 
 //Create a variable called lovesCode that is a boolean data type
 
-//Code here
+const loveCode = true;
 
 //////////////////PROBLEM 4////////////////////
 
