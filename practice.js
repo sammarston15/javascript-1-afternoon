@@ -43,7 +43,7 @@ function greeting(name) {
 //Rewrite the function greeting as a function expression.
 //Name it newGreeting.
 
-const newgreeting = function(name) {
+const newGreeting = function(name) {
   return 'Hello, ' + name;
 }
 
@@ -84,10 +84,10 @@ const devMountainClassPet = dog.name;
 // with NAMEPARAM being the name parameter being passed in
 
 function nameCheck(NAMEPARAM) {
-  if (name === 'Steven') {
+  if (NAMEPARAM === 'Steven') {
     return 'What is up Steven?'
   }
-  if (name === 'Bryan') {
+  if (NAMEPARAM === 'Bryan') {
     return 'Hey Bryan!'
   } else {
     return `Cool name, ${NAMEPARAM}`
@@ -108,7 +108,7 @@ function add(num1, num2) {
 //Now invoke add, passing in the numbers 3 and 4
 //storing the result in the variable mathSum.
 
-const answer11 = add(3, 4);
+const mathSum = add(3, 4);
 
 //////////////////PROBLEM 12////////////////////
 
