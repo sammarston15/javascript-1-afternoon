@@ -43,7 +43,7 @@ function greeting(name) {
 //Rewrite the function greeting as a function expression.
 //Name it newGreeting.
 
-const myGreeting = newGreeting(name) {
+const newgreeting = function(name) {
   return 'Hello, ' + name;
 }
 
@@ -83,7 +83,7 @@ const devMountainClassPet = dog.name;
 // If the name parameter is anything else, return 'Cool name, NAMEPARAM'
 // with NAMEPARAM being the name parameter being passed in
 
-function nameCheck( NAMEPARAM) {
+function nameCheck(NAMEPARAM) {
   if (name === 'Steven') {
     return 'What is up Steven?'
   }
